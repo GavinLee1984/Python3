@@ -1,0 +1,7 @@
+error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+Everything up-to-date
+
+git config http.postBuffer 524288000
+git config http.sslVerify "false"
